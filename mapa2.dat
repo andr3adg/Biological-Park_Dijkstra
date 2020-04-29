@@ -1,0 +1,23 @@
+7
+1, Entrada
+2, Pinguins
+3, Lontras
+4, Tubarões
+5, Raias
+6, Aquário Principal
+7, Focas
+14
+1, ponte, ponte1, 1, 2, true, 10, 50
+2, ponte, ponte2, 3, 6, false, 30, 20
+3, ponte, ponte3, 5, 7, true, 10, 50
+4, caminho, caminho1, 2, 5, true, 1, 100
+5, caminho, caminho2, 2, 6, false, 2, 200
+6, caminho, caminho3, 4, 5, true, 0, 150
+7, caminho, caminho4, 3, 7, true, 2, 300
+8, caminho, caminho5, 6, 7, true, 12, 50
+9, caminho, caminho6, 1, 5, true, 20, 350
+10, caminho, caminho7, 3, 4, false, 15, 20
+11, caminho, caminho8, 7, 1, true, 8, 250
+12, caminho, caminho9, 3, 1, true, 1, 180
+13, caminho, caminho10, 4, 7, true, 1, 180
+14, caminho, caminho11, 2, 7, true, 1, 180
